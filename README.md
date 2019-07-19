@@ -9,8 +9,8 @@ NOTICE: IT IS NECESSARY TO SET THE KEY API IN THE CODE OR USE THE PARAMETER ONCE
 Install:
 
 git clone https://github.com/pollonegro/ShoFinder.git
+
 pip3 install requirements.txt
-python ShoFinder -h
 
 
 --------------------------------------------------------------------------------------
