@@ -1,0 +1,6 @@
+47.58.12.153
+google.es
+www.microsoft.com
+http://www.amazon.com
+https://alibaba.com
+188.211.228.0/22
