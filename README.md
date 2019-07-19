@@ -6,6 +6,14 @@ This script allows us to search in Shodan for a single host, a domain, a range o
 NOTICE: IT IS NECESSARY TO SET THE KEY API IN THE CODE OR USE THE PARAMETER ONCE
 
 
+Install:
+
+git clone https://github.com/pollonegro/ShoFinder.git
+pip3 install requirements.txt
+python ShoFinder -h
+
+
+--------------------------------------------------------------------------------------
 
 usage: python3 ShoFinder.py [-h] [-t TARGET] [-f FILE] [-s] [-a API] [-ex EXPORTXLS] 
 Version: 1.4 - This script intend to obtain information with Shodan 
