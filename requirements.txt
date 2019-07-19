@@ -1,0 +1,4 @@
+shodan
+dnspython
+requests
+colorama
