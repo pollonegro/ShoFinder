@@ -1,6 +1,8 @@
 # ShoFinder
 Bulk scanning of Hosts and IPs using the Shodan API
 
+![](https://github.com/pollonegro/ShoFinder/blob/master/img/ShoFinderImg.png)
+
 This script allows us to search in Shodan for a single host, a domain, a range or to pass a txt file with ips, hosts and ranges for batch processes, it has options available as silent mode, customization of own API and export of results to Excel file.
 
 NOTICE: IT IS NECESSARY TO SET THE KEY API IN THE CODE OR USE THE PARAMETER ONCE
