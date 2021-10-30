@@ -10,9 +10,9 @@ NOTICE: IT IS NECESSARY TO SET THE KEY API IN THE CODE OR USE THE PARAMETER ONCE
 
 Install:
 
-git clone https://github.com/pollonegro/ShoFinder.git
+    git clone https://github.com/pollonegro/ShoFinder.git
 
-pip3 install requirements.txt
+    pip3 install -r requirements.txt
 
 
 --------------------------------------------------------------------------------------
