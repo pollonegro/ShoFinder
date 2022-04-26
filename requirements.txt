@@ -2,3 +2,4 @@ shodan
 dnspython
 requests
 colorama
+termcolor
